@@ -1,6 +1,5 @@
 {
   "name": "sergwizard/maxmind-geolite2-db",
   "keywords": ["maxmind"],
-   "license": ["Creative Commons Attribution-ShareAlike 4.0 International License",
-                "Creative Commons Attribution 3.0 License"]
+  "version": "1.0.3"
 }
